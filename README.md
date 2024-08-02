@@ -38,3 +38,12 @@ It's recommended to use a virtual environment to manage dependencies:
 ```bash
 python -m venv env
 source env/bin/activate  # On Windows use `env\Scripts\activate`
+
+## Setup and Installation
+
+### 3. Install Dependencies
+
+Install the required Python libraries:
+```bash
+pip install -r requirements.txt
+
