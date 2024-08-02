@@ -15,10 +15,10 @@ This repository contains the implementation of a FastAPI server for a Mental Hea
 10. License
 
 # Project Overview
-This project implements a FastAPI server with two main endpoints:
+*This project implements a FastAPI server with two main endpoints:
 
-/rag: A Retrieval-Augmented Generation endpoint for suggesting mental health articles.
-/classification: A classification endpoint for categorizing input data using a pre-trained Random Forest model.
+   */rag: A Retrieval-Augmented Generation endpoint for suggesting mental health articles.
+   */classification: A classification endpoint for categorizing input data using a pre-trained Random Forest model.
 The goal is to showcase skills in API development, model deployment, and containerization using Docker.
 
 # Features
