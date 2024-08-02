@@ -35,12 +35,14 @@ The goal is to showcase skills in API development, model deployment, and contain
 git clone https://github.com/your-username/mental-health-chatbot.git
 cd mental-health-chatbot
 
+## Setup and Installation
+
 ### 2. Set Up a Virtual Environment
 It's recommended to use a virtual environment to manage dependencies:
-
 ```bash
 python -m venv env
-.\env\Scripts\activate  # For Windows 
+source env/bin/activate  # On Windows use `env\Scripts\activate`
+
 
 ### 3. Install Dependencies
 Install the required Python libraries:
