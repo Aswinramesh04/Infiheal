@@ -67,9 +67,9 @@ uvicorn main:app --reload
 Navigate to http://127.0.0.1:8000/docs in your browser to access the interactive Swagger UI documentation.
 
 ### Endpoints
-- **1. /rag Endpoint**
+## - **1. /rag Endpoint**
 ## Method: POST
-## Description: Generates a relevant article suggestion based on the user’s mental health query.
+Description: Generates a relevant article suggestion based on the user’s mental health query.
 ## Request:
 ```json
 {
@@ -83,9 +83,9 @@ Navigate to http://127.0.0.1:8000/docs in your browser to access the interactive
     "response": "This is a sample article related to your query."
 }
 ```
-- **2. /classification Endpoint**
+## - **2. /classification Endpoint**
 ## Method: POST
-## Description: Classifies the input data based on the trained model.
+Description: Classifies the input data based on the trained model.
 ## Request:
 ```json
 
