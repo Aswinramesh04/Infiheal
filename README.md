@@ -32,6 +32,12 @@ The goal is to showcase skills in API development, model deployment, and contain
 
 ## Setup and Installation
 
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Aswinramesh04/Infiheal.git
+cd mental-health-chatbot
+```
+
 ### 2. Set Up a Virtual Environment
 
 It's recommended to use a virtual environment to manage dependencies:
